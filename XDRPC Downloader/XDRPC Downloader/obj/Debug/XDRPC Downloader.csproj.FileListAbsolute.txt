@@ -1,0 +1,10 @@
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\bin\Debug\XDRPC Downloader.exe.config
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\bin\Debug\XDRPC Downloader.exe
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\bin\Debug\XDRPC Downloader.pdb
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC Downloader.csprojResolveAssemblyReference.cache
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC_Downloader.Form1.resources
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC_Downloader.Properties.Resources.resources
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC Downloader.csproj.GenerateResource.Cache
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC Downloader.csproj.CoreCompileInputs.cache
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC Downloader.exe
+c:\users\kieran\source\repos\XDRPC Downloader\XDRPC Downloader\obj\Debug\XDRPC Downloader.pdb
